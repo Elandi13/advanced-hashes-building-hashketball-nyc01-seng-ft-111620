@@ -1,2 +1,2 @@
 require 'pry'
-def hashketball 
+def game_hash
