@@ -31,9 +31,9 @@ def game_hash
         {
           player_name
         }
-        
+        binding.pry
       
     }
   }
-
+end
   
