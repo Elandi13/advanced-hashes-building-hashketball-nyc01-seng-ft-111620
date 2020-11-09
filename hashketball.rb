@@ -7,6 +7,8 @@ def game_hash
       colors: ["Black", "White"],
       players: [
         {
+          
+        }
         
       
     }
