@@ -1,4 +1,4 @@
-def game_hash
+def game_hash 
   {
     home: {
       team_name: "Brooklyn Nets",
@@ -8,7 +8,7 @@ def game_hash
           player_name: "Alan Anderson",
           number: 0,
           shoe: 16,
-          points: 22,
+          points: 22, 
           rebounds: 12,
           assists: 12,
           steals: 3,
@@ -16,7 +16,7 @@ def game_hash
           slam_dunks: 1
         },
         {
-          player_name: "Reggie Evans",
+          player_name : "Reggie Evans",
           number: 30,
           shoe: 14,
           points: 12,
@@ -53,13 +53,13 @@ def game_hash
           number: 31,
           shoe: 15,
           points: 19,
-          rebounds: 2,
+          rebounds: 2
           assists: 2,
           steals: 4,
           blocks: 11,
           slam_dunks: 1
         }
-      ]
+      ]    
     },
     away: {
       team_name: "",
@@ -92,11 +92,11 @@ def game_hash
           number: 2,
           shoe: 14,
           points: 24,
-          rebounds: 12,
+          rebounds: 12, 
           assists: 12,
           steals: 4,
           blocks: 5,
-          slam_dunks: 5
+          slam_dunks: 6 
         },
         {
           player_name: "Ben Gordon",
@@ -107,9 +107,9 @@ def game_hash
           assists: 2,
           steals: 1,
           blocks: 1,
-          slam_dunks: 0
+          slam_dunks: 0 
         },
-        {
+        { 
           player_name: "Kemba Walker",
           number: 33,
           shoe: 15,
@@ -118,10 +118,10 @@ def game_hash
           assists: 12,
           steals: 7,
           blocks: 5,
-          slam_dunks: 12
+          slam_dunks: 12 
         }
       ]
-    }
+    } 
   }
 end
 
