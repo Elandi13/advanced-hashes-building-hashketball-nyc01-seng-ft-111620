@@ -26,7 +26,10 @@ def game_hash
           assists:12,
           steals:12,
           blocks:12,
-          slam_dunks7
+          slam_dunks: 7
+        },
+        {
+          player_name
         }
         
       
